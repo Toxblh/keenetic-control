@@ -1,6 +1,6 @@
 {
   "name": "keenetic-control",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Library to easy access Keentic Router API",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
